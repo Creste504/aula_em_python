@@ -1,6 +1,5 @@
 #Codigo de analise de nomes
-nome = ('Cristhian Matheus Freitas da Silva')
-#input('Digite o seu nome completo')
+nome = input('Digite o seu nome completo')
 #Deica maisculo
 maiusc = nome.upper()
 #Deixa minusculo
@@ -12,4 +11,4 @@ primeiroNome = len(nome.split()[0])
 print ('Seu nome em letras maiusculas fica: {}'.format(maiusc))
 print ('Seu nome em letras minusculas fica: {}'.format(minusc))
 print ('O total de caracteres do seu nome é: {}'.format(contg))
-print ('O numero de caracteresd do seu primeiro nome é: {}'.format(primeiroNome))
+print ('O numero de caracteres do seu primeiro nome é: {}'.format(primeiroNome))
