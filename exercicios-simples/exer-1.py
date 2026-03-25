@@ -1,6 +1,6 @@
 #Codigo de analise de nomes
 nome = input('Digite o seu nome completo')
-#Deica maisculo
+#Deixa maisculo
 maiusc = nome.upper()
 #Deixa minusculo
 minusc = nome.lower()
