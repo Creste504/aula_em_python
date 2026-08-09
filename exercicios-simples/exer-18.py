@@ -1,3 +1,4 @@
+#Codigo de verificação de idade para alistamento
 ano_nascimento = int (input("Informe seu ano de nascimento: "))
 ano_atual = int (input('Informe em que ano estamos: '))
 idade = ano_atual - ano_nascimento
