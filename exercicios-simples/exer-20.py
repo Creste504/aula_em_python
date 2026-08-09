@@ -1,4 +1,4 @@
-#Codgio pra recrutamento para o time de natação nacional
+#Codigo pra recrutamento para o time de natação nacional
 ano_nascimento = int (input("Informe seu ano de nascimento: "))
 ano_atual = int (input('Informe em que ano estamos: '))
 idade = ano_atual - ano_nascimento
