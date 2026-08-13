@@ -2,7 +2,9 @@
 import time 
 n = 0
 for c in range (10, -1, -1):
- 
+    if c == 0:
+        print ("BOOOOOOOOOM!")
+    else:
         print(c, "....")
         time.sleep(1)
 print("VALEU!")
