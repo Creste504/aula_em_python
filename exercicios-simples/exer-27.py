@@ -9,5 +9,6 @@ for c in range (3, 500, 3):
 
 soma_total = sum(lista)
 print ("A soma de todos os numero é igual a {}".format(soma_total))
+print ("VALEU!")
 
 
