@@ -39,8 +39,6 @@ Selecione uma das opções: """))
         valores.append(numero)
         
     if opcoes == 5:
-        print ("Fim do programa")
-        break
-        time.sleep (2)     
+        print ("Fim do programa")    
     time.sleep (2)
 print("VALEU!")
