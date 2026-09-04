@@ -1,4 +1,4 @@
-#codigo de leitura de PA (Progressão aritimetica) com while
+#codigo de leitura de PA (Progressão aritimetica) com while melhorado
 import time
 primeiro_termo = int (input("Digite o primerio termo da PA: "))
 razao = int (input("Digite a razao da PA: "))
