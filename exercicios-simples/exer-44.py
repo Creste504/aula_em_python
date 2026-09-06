@@ -45,7 +45,7 @@ while resposta_do_user != "N":
     media = (sum(lista)) / len(lista)
     contador += 1
     
-print ("A media é igual a: {}".format(media))
+print ("A media é igual a: {:.2f}".format(media))
 print ("O maior numero foi: {}".format(maior_numero))
 print ("O menor numero foi: {}".format(menor_numero))    
 print("VALEU!")
