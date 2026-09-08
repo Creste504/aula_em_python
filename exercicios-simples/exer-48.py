@@ -1,11 +1,11 @@
-#Analisador completo de caracteristicas
+#Analisador completo de caracteristicas com while
 idades = []
 homens = []
 mulheres = []
 idade_mulheres = []
 idade_iguais = False
 pessoa_com_mais_de_18 = 0
-mulheres_sem_vinte = 0'
+mulheres_sem_vinte = 0
 
 while True:
     nome = input("Digite seu nome: ")
